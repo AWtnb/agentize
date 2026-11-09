@@ -1,0 +1,20 @@
+# Binaries
+/agentize
+/agentize.exe
+*.exe
+*.test
+*.out
+
+# Build output
+/dist/
+/bin/
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
